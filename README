@@ -5,7 +5,7 @@ It allows you to allow sorting on querysets, without handling them in views.
 Usage
 -------------
 
-Inlude `sorting` in your `INSTALLED_APPS`
+Include `sorting` in your `INSTALLED_APPS`
 
 Put `{% load sorting %}` at top of your templates.
 
